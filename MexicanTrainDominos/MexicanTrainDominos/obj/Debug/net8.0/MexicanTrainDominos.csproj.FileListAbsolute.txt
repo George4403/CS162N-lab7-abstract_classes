@@ -1,0 +1,14 @@
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.exe
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.deps.json
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.runtimeconfig.json
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.dll
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\bin\Debug\net8.0\MexicanTrainDominos.pdb
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.AssemblyInfoInputs.cache
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.AssemblyInfo.cs
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.csproj.CoreCompileInputs.cache
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.dll
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\refint\MexicanTrainDominos.dll
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.pdb
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\MexicanTrainDominos.genruntimeconfig.cache
+C:\Users\theal\source\repos\MexicanTrainDominos\MexicanTrainDominos\obj\Debug\net8.0\ref\MexicanTrainDominos.dll
